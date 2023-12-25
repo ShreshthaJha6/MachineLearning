@@ -1,1 +1,1 @@
-This repo contains all my Machine Learning projects starting from 2023.
+Projects and assignments while learning ML since 2023.
